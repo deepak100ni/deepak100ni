@@ -21,3 +21,4 @@
 
 <img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak100ni&theme=tokyonight" alt="mystreak"/>
 
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak100ni&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
