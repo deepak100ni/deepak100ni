@@ -1,12 +1,21 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **React Js**
+# Hi there, I'm Deepak Soni 👋
 
-- 👯 I’m looking to collaborate on **MERN Stack**
+## A Passionate Full Stack Developer from India 🇮🇳
 
-- 💬 Ask me about **React Js**
+I’m a full stack developer currently working at **Persistent Systems**, where I build innovative solutions using modern technologies. I specialize in the MERN stack and have a passion for creating seamless, user-friendly applications.
 
-- 📫 How to reach me **email.deepaksoni@gmail.com**
+---
+
+### 🌟 About Me
+- 🔭 I’m currently working on **React.js** and **Atlassian Forge** projects at Persistent Systems.
+- 👯 I’m looking to collaborate on **MERN Stack** projects.
+- 💬 Ask me about **React.js**, **Node.js**, or **GIS Development**.
+- 📫 Reach me at **email.deepaksoni@gmail.com**.
+- 🛠️ Technologies: React, Node.js, JavaScript, HTML, CSS, Atlassian Forge, Connector Integration, GIS Development.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
